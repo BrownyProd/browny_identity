@@ -3,7 +3,7 @@
 Menu crée pour test la nouvelle version du RageUI le but n'étant pas de faire le meilleur menu possible, pas sûr de l'utiliser du coup je le partage.
 Standalone de base, à vous de modif le côté server selon la structure de vôtre BDD.
 
-##Commandes
+## Commandes
 - Ouvrir: 'iden'
 - Fermer: 'deliden'
 
