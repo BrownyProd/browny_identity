@@ -13,6 +13,8 @@ This resource is standalone with it's only dependency being RageUI (obviously).
 - Ouvrir/Open: 'iden'
 - Fermer/Close: 'deliden'
 
+# Update
+- Added ESX database server version for those who asked
 
 ## Dependency
 [RageUI v2](https://github.com/iTexZoz/RageUI)
